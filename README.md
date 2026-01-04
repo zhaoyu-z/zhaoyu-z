@@ -3,15 +3,15 @@
 </h1>
 
 <div align="center">
-  I'm Zhaoyu Zhang, a recently graduate in Computer Science 👨‍💻 who is passionate about programming and its entire ecosystem.<br/>
+  I'm Zhaoyu Zhang, a senior developer working in London. Happy to connect and drop me a message! <br/>
   You can see my <a href="https://github.com/zhaoyu-z/Resume/blob/main/CV_Python/Zhaoyu%20Zhang%20CV.pdf">Python CV<a/> and <a href="https://github.com/zhaoyu-z/Resume/blob/main/CV_Java/Zhaoyu%20Zhang%20CV.pdf">Java CV<a/> here
 <div/>
 <br/>
   
-<a href="https://www.buymeacoffee.com/zhaoyu-z" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<!-- <a href="https://www.buymeacoffee.com/zhaoyu-z" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> -->
 
 <h1 align="center">
-  Website
+  My Website
 </h1> 
   
 [![Personal Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://iamzzy.com)
@@ -69,13 +69,12 @@
   <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhaoyu-z&theme=transparent" />
   <br />
   <br />
-  <img height=300 align="center" src="https://github-readme-stats-zhaoyuzhang.vercel.app/api/wakatime?username=zhaoyuzhang&layout=compact&theme=transparent" />
-  <br />
+  <!-- <img height=300 align="center" src="https://github-readme-stats-zhaoyuzhang.vercel.app/api/wakatime?username=zhaoyuzhang&layout=compact&theme=transparent" /> -->
+  <!-- <br />
   <br />
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhayu517%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=cliqz.svg&icon_color=%23FFFFFF&title=hits+count&edge_flat=false"/></a>
 </div>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhaoyu-z&row=1&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhaoyu-z&row=1&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy) -->
   
 <h1 align="center">
   Papers and Presentations
@@ -83,7 +82,7 @@
 
 <div align="center">
   <a href="https://github.com/zhaoyu-z/Reports-and-Presentations/blob/main/3rd_Year_Project_Report.pdf
-">3rd Year Project Report<a/><br/>
+">3rd Year of Uni Project Report<a/><br/>
   <a href="https://github.com/zhaoyu-z/Reports-and-Presentations/blob/main/Leader%20Follower.pdf
 ">Leader Follower<a/><br/>
   <a href="https://github.com/zhaoyu-z/Reports-and-Presentations/blob/main/Optimizing%20minimal%20counterexamples.pdf
